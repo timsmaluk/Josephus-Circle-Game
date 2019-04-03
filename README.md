@@ -22,4 +22,4 @@ Prerequisites:
 Make sure to have the latest version of python installed (3.7.2)
 
 Running:
-python3.7 JC.py {difficulty}
+python3.7 JC.py -h for help
