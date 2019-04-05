@@ -8,6 +8,7 @@ rather face prison than face death. Choose a spot in the circle to
 stand where you will avoid death. 
 
 The kill order for n=6 is as follows:
+
 1 kills 2,
 
 3 kills 4,
