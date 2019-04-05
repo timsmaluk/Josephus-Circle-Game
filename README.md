@@ -27,4 +27,4 @@ Hint: The white circle is the first killer
 Make sure to have the latest version of python installed (3.7.2)
 
 # Running:
-For example: python3 JC.py easy generates a game board with easy difficulty 
+For example: *python3 JC.py easy* generates a game board with easy difficulty 
