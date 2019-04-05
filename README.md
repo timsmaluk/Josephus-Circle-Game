@@ -9,17 +9,21 @@ stand where you will avoid death.
 
 The kill order for n=6 is as follows:
 1 kills 2,
+
 3 kills 4,
+
 5 kills 6,
+
 1 kills 3,
+
 5 kills 1
 
 *** 5 is the winner ***
 
 Hint: The white circle is the first killer
 
-Prerequisites:
+# Prerequisites:
 Make sure to have the latest version of python installed (3.7.2)
 
-Running:
+# Running:
 python3.7 JC.py -h for help
